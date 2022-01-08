@@ -3,16 +3,14 @@
 Please visite my website [EXPRESS AUTO](https://express-auto-01.web.app).
 
 ## Raw Link
-
 https://express-auto-01.web.app
 
-### `Assignment 12`
 ### Live Site Link:
 https://express-auto-01.web.app
 ### Client Repo Link:
-https://github.com/programming-hero-web-course-4/niche-website-client-side-chanda-27
+https://github.com/chanda-27/express-auto-client
 ### Server Repo Link:
-https://github.com/programming-hero-web-course-4/niche-website-server-side-chanda-27
+https://github.com/chanda-27/express-auto-server
 
 ### Feature(s):
 1. Loading warning during file upload.
